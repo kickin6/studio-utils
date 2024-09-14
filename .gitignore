@@ -1,0 +1,19 @@
+# Ignore the .env file to prevent sensitive data from being committed
+n8n/.env
+
+# Ignore backup directories and JSON files
+/n8n/workflows/
+/n8n/*/backup-*.json
+
+# Ignore all logs and temporary files
+*.log
+*.tmp
+
+# Ignore OS-generated files (optional)
+.DS_Store
+Thumbs.db
+
+# Ignore other system files
+*.swp
+*.swo
+

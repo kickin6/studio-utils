@@ -23,7 +23,7 @@ Clone or download the repository containing the `n8n-backup.sh` script:
 
 ```bash
 git clone https://github.com/kickin6/studio-utils.git
-cd studio-utils/n8n
+cd studio-utils/n8n/auto-backup
 ```
 
 ### 2. Set Up Environment Variables

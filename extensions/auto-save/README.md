@@ -165,7 +165,7 @@ The Auto Save extension is designed to enhance user productivity by automaticall
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](/LICENSE).
 
 ## Disclaimer
 
